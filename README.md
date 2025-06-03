@@ -1,5 +1,5 @@
 # KRNO
-Code repository for the ICML 2025 paper 'Shifting time: time-series forecasting with Khatri-Rao neural operators'
+Code repository for the ICML 2025 paper 'Shifting Time: Time-series Forecasting with Khatri-Rao Neural Operators'
 
 - The scripts used for training and post-processing all the datasets are provided in the folder `code/scripts`.
 
